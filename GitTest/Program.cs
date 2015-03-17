@@ -12,8 +12,8 @@ namespace GitTest
         {
             Console.WriteLine("asdfasdfasd");
             Console.WriteLine("bug 0 Fixed ");
-            Console.ReadLine();
-            
+            Console.WriteLine("KKK");
+            Console.ReadLine();           
             
         }
     }
